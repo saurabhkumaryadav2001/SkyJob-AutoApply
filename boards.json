@@ -1,0 +1,12 @@
+[
+  {
+    "company": "Example Greenhouse Board",
+    "type": "greenhouse",
+    "slug": "example"
+  },
+  {
+    "company": "Example Lever Board",
+    "type": "lever",
+    "slug": "example"
+  }
+]
