@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "resume_path": "",
+  "locations": [
+    "Mumbai"
+  ],
+  "keywords": [
+    ".NET Developer",
+    "Angular Developer",
+    "React Developer",
+    "Full Stack Developer",
+    "Software Engineer"
+  ],
+  "min_experience": 2,
+  "max_experience": 3
+}
